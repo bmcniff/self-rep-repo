@@ -2,7 +2,7 @@
 
 The self-rep-repo app creates a replication of itself.
 
-To see a demo of this, click the following link: 
+To see a demo of this, click the following link: https://sheltered-escarpment-34153.herokuapp.com/
 
 For instructions on how to launch the application and get a working URL that replicates the repository, see 'installation.md'
 
