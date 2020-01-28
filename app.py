@@ -7,7 +7,7 @@ os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'thisissupposedtobeasecret'
 
-github_blueprint = make_github_blueprint(client_id='033b6cc3d24fbf5c354e', client_secret='42b93a8dbe30ce9b373b505cbd2c212a880c490d')
+github_blueprint = make_github_blueprint(client_id='XXXX', client_secret='XXXX')
 
 app.register_blueprint(github_blueprint, url_prefix='/github_login')
 
