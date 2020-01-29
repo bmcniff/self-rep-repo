@@ -46,7 +46,7 @@ Heroku - https://id.heroku.com/
 
 3. Enter the following commands:  
   'virtualenv env'  
-  'venv\Scritps\activate' (for PC) 'source venv/bin/activate' (for Linux/OSX)  
+  'venv\Scripts\activate' (for PC) 'source venv/bin/activate' (for Linux/OSX)  
   'pip install flask'  
   'pip install gunicorn'  
   'git init'  
